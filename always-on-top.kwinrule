@@ -1,0 +1,12 @@
+[ClipMenu always on top]
+Description=ClipMenu always on top
+above=true
+aboverule=3
+clientmachine=localhost
+clientmachinematch=0
+title=ClipMenu
+titlematch=1
+types=1
+wmclass=tk
+wmclasscomplete=false
+wmclassmatch=1
